@@ -1,6 +1,6 @@
 # Autores (colaboradores)
 ## Pablo Vergel Celis : Kerolink (owner)
-## Mohamend Amri : 
+## Mohamed Amri : 
 ## Alejandro Collantes Linares : 
 
 # Resumen del contenido del repositorio

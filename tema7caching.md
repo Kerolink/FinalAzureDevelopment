@@ -61,3 +61,26 @@ Es importante tener en cuenta que Azure Cache for Redis es una solución adminis
 Recuerda revisar la documentación oficial de Azure para obtener detalles específicos sobre cómo implementar y utilizar Azure Cache for Redis en tu solución.
 ````
 
+
+
+# Question 11 Pag 203
+
+this is a caching problem, not a database one
+
+B No
+
+
+
+# Question 10 Pag 202
+
+this is a caching problem
+
+B No
+
+
+
+# Question 12 Pag 204
+
+Connection.GetDatabase() returns a IDatabase type object
+
+To specify the expiration of an item in the cache, use the TimeSpan parameter of StringSet.

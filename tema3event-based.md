@@ -60,5 +60,44 @@ En resumen, Azure Event Hubs es una solución potente para la captura, procesami
 
 # Preguntas de la batería
 
-# Question
+# Question 3 Pag 83
 
+[Partitions](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability#partitions)
+
+"along six highways" **We will need 6 partitions**
+
+"Traffic data is consumed by four departments." We don't care who consume it we care stting it up
+
+"App Service Plans with three instances" Irrelevant
+
+**Highway, mentioned in the question as well**
+
+
+
+# Question 15 Pag 104
+
+pdf wrong
+
+B No
+
+A huge data is coming in. We need to store it in the right places
+
+The Event Grid won't do so
+
+**Event Grid doesn't have a capture option It doesn't support blob storage**
+
+[Event Handlers](https://learn.microsoft.com/en-us/azure/event-grid/overview#event-handlers)
+
+En el enlace no se lista los blobs
+
+Si estuviera hablando de Azure Event Hub sería correcto
+
+[Capture events through Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-overview)
+
+# Question 6 Pag 133
+
+- **A Service Bus Premium** namespace with at least one Service Bus queue or a Service Bus topic with at least one subscription.
+
+- **Contributor access to the Service Bus namespace**. Navigate to your Service Bus namespace in the Azure portal, and then select **Access control (IAM)**, and select **Role assignments** tab. Verify that you have the **contributor** access to the namespace.
+
+  [Azure Service Bus to Event Grid integration](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-concept?tabs=event-grid-event-schema)

@@ -75,3 +75,29 @@ pdf correcto
 3. Well after the patient has been discharged there will be no more additions
    so consistency is not a huge concern, by this point it should be consistant across all the environments
    and eventual consistency is the fastest to access
+
+# Question 11 Pag 94
+
+Primer punto se cumple por usar Azure Cosmos DB [SLA](https://www.azure.cn/en-us/support/sla/cosmos-db/)
+
+Segundo punto se cumple con ``--enable-automatic-failover true``
+
+("or other unforeseen failures occur")
+
+3 y 4 se cumplen con BoundedStaleness
+
+"Allow simultaneous and out-of-order reservations with a maximum five-second tolerance window" **cannot do it simultaneously with strong**
+
+**To have failover true we need multi region**
+
+``--locations southcentralus=0 eastus=1 westus=2`` Only option with multi region
+
+
+
+# Question 13 Pag 153
+
+[Operator](https://azure.microsoft.com/en-us/updates/azure-cosmos-db-operator-role-for-role-based-access-control-rbac-is-now-available/)
+
+A & B Don't let you do what you need
+
+D Allow you access the keys

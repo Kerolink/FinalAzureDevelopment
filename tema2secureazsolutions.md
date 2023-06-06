@@ -55,7 +55,7 @@
 
       NOTE: Each correct selection is worth one point.
 
-    ![image](/img/q33.png)
+    ![image](/img/Q33.png)
 
     Explicación:
      

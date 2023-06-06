@@ -81,6 +81,8 @@ B No
 
 # Question 12 Pag 204
 
+pdf correcto
+
 Connection.GetDatabase() returns a IDatabase type object
 
 To specify the expiration of an item in the cache, use the TimeSpan parameter of StringSet.

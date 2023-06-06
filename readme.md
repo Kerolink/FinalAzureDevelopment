@@ -14,10 +14,10 @@ Cada archivo md contiene una explicación de qué es el servicio en cuestión y 
 | Archivo          | Tema         | Autor          |
 | ---------------- | ------------ | -------------- |
 | tema1DB.md      | Develop solutions that use Cosmos DB storage          | Pablo          |
-| tema2secureazsolutions.md | Implement secure Azure solutions | ?          |
+| tema2secureazsolutions.md | Implement secure Azure solutions | Moha          |
 | tema3event-based.md     | Develop event-based solutions        | Pablo |
-| tema4containers.md     | Implement containerized solutions        | ? |
-| tema5API.md  | Implement API Management    | ?          |
-| tema6message-based.md | Develop message-based solutions     | ?         |
+| tema4containers.md     | Implement containerized solutions        | Moha |
+| tema5API.md  | Implement API Management    | Collantes          |
+| tema6message-based.md | Develop message-based solutions     | Collantes         |
 | tema7caching.md | Implement caching for solutions     | Pablo         |
 

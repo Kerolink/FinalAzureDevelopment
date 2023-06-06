@@ -1,6 +1,6 @@
 # Autores (colaboradores)
 ## Pablo Vergel Celis : Kerolink (owner)
-## Mohamed Amri : xsha256
+## Mohamed A. : xsha256
 ## Alejandro Collantes Linares : Lastrorm
 
 # Resumen del contenido del repositorio
